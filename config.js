@@ -1,7 +1,7 @@
 /*
  * @Author: Null
  * @Date: 2022-10-22 17:28:03
- * @Description
+ * @Description：配置文件
  */
 
 const { name, version } = require("./package.json");
