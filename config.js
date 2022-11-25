@@ -9,7 +9,7 @@ const { name, version } = require("./package.json");
 let CONFIG = {
   NAME: name,
   VERSION: version,
-  PORT: 6532,
+  PORT: 8832,
   TOKEN_PREFIX: "/api",
   NO_TOKEN_PREFIX: "/admin",
   TOKEN_SECRET_KEY: "tokenSecretKey", // token生成密钥
